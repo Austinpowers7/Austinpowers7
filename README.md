@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*zsYhj2_adfK-bSkljqol2A.jpeg)
 <h1 align="center">Hi 👋, I'm Augustine Agbara</h1>
-<h3 align="center">A passionate software enginner</h3>
+<h3 align="center">Software Enginner || CISCO Certified Ethical Hacker || Penetration Tester</h3>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/width-420,height-315,imgsize-638053,resizemode-75,msid-84146083/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
 
