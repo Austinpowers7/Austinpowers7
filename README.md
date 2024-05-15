@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=austinpowers7&label=Profile%20views&color=0e75b6&style=flat" alt="austinpowers7" /> </p>
 
-<!- 🌱 I’m currently learning **LLM**>
+<!-- - 🌱 I’m currently learning **LLM** -->
 
 - 💬 Ask me about **React, React Native, Nodejs, Expressjs, Flutter, Javascript, MongoDB, MySQL**
 
